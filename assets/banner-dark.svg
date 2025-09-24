@@ -1,0 +1,29 @@
+﻿<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1220" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accent-dark" x1="1000" y1="60" x2="1240" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0.75" />
+    </linearGradient>
+    <radialGradient id="pulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(320 120) rotate(45) scale(360)">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="420" rx="32" fill="url(#bg-dark)" />
+  <circle cx="320" cy="120" r="220" fill="url(#pulse)" />
+  <path d="M0 300C150 260 220 200 300 230C380 260 420 330 570 330C720 330 790 260 900 260C1010 260 1110 320 1280 300V420H0V300Z" fill="#0EA5E9" opacity="0.12" />
+  <path d="M1100 40C1180 100 1260 130 1280 120V250C1200 260 1140 210 1090 160C1040 110 1080 60 1100 40Z" fill="url(#accent-dark)" />
+  <text x="120" y="180" fill="#F8FAFC" font-family="Inter, 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="48" font-weight="600" letter-spacing="0.02em">
+    Marc Muntané — Web &amp; Multiplatform Developer
+  </text>
+  <text x="120" y="240" fill="#E2E8F0" font-family="Inter, 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="26" font-weight="400" letter-spacing="0.18em" text-transform="uppercase">
+    Visual-first • Clean UX • Growth mindset
+  </text>
+  <rect x="120" y="280" width="420" height="5" rx="2.5" fill="#0EA5E9" />
+  <rect x="120" y="300" width="260" height="5" rx="2.5" fill="#22C55E" opacity="0.85" />
+  <rect x="120" y="320" width="120" height="5" rx="2.5" fill="#F97316" opacity="0.85" />
+</svg>

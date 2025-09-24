@@ -1,0 +1,29 @@
+﻿<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-light" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#E0F2FE" />
+    </linearGradient>
+    <linearGradient id="accent-corner" x1="1060" y1="30" x2="1240" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="accent-ribbon" x1="-40" y1="260" x2="220" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="32" fill="url(#bg-light)" />
+  <path d="M1140 0H1280V140C1280 140 1200 150 1140 90C1080 30 1140 0 1140 0Z" fill="url(#accent-corner)" />
+  <path d="M0 320C80 360 200 420 200 420H0V320Z" fill="url(#accent-ribbon)" opacity="0.65" />
+  <circle cx="1020" cy="340" r="120" fill="#0EA5E9" opacity="0.08" />
+  <circle cx="260" cy="90" r="70" fill="#22C55E" opacity="0.08" />
+  <text x="120" y="180" fill="#111827" font-family="Inter, 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="48" font-weight="600" letter-spacing="0.02em">
+    Marc Muntané — Web &amp; Multiplatform Developer
+  </text>
+  <text x="120" y="240" fill="#0F172A" font-family="Inter, 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="26" font-weight="400" letter-spacing="0.18em" text-transform="uppercase">
+    Visual-first • Clean UX • Growth mindset
+  </text>
+  <rect x="120" y="280" width="420" height="5" rx="2.5" fill="#0EA5E9" />
+  <rect x="120" y="300" width="260" height="5" rx="2.5" fill="#22C55E" opacity="0.8" />
+</svg>
