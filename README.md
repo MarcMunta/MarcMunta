@@ -1,54 +1,42 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Marc Muntané — Web & Multiplatform Developer" src="assets/banner-light.svg">
-</picture>
+# Marc Muntané 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&width=720&lines=Desarrollo+web+y+multiplataforma;UX%2FUI+visual+y+consistente;Flutter+%7C+TypeScript+%7C+Mapbox)](https://github.com/MarcMunta)
+<div align="center">
 
-<img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Flutter+%26+TypeScript;UX%2FUI+%26+Web+Performance;Creando+experiencias+digitales)](https://github.com/MarcMunta)
+
+![Profile views](https://komarev.com/ghpvc/?username=MarcMunta&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
 
 ## Stack principal
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
-<table>
-  <tr>
-    <td>
-      <strong>GameLife</strong> — app web interactiva de hábitos.<br />
-      <em>Stack:</em> JS/TS, UI visual.<br />
-      <a href="https://github.com/MarcMunta/GameLife">→ Ver repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>SpoonApp-Delivery</strong> — app de repartos centrada en logística.<br />
-      <em>Stack:</em> Flutter, mapas.<br />
-      <a href="https://github.com/MarcMunta/SpoonApp-Delivery">→ Ver repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Mapa</strong> — mapas 2D/3D con Mapbox en web.<br />
-      <em>Stack:</em> Dart/Flutter Web.<br />
-      <a href="https://github.com/MarcMunta/Mapa">→ Ver repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Social, Portfolio</strong> — componentes UI y landing.<br />
-      <em>Stack:</em> UI visual, web performance.<br />
-      <a href="https://github.com/MarcMunta/Social-Portfolio">→ Ver repo</a>
-    </td>
-  </tr>
-</table>
+| Proyecto | Descripción | Stack | Link |
+|----------|-------------|-------|------|
+| **GameLife** | App web interactiva de hábitos y gamificación | JS/TS, UI visual | [→ Ver repo](https://github.com/MarcMunta/GameLife) |
+| **SpoonApp-Delivery** | App de repartos centrada en logística | Flutter, Mapbox, Dart | [→ Ver repo](https://github.com/MarcMunta/SpoonApp-Delivery) |
+| **Mapa** | Mapas 2D/3D interactivos con Mapbox en web | Flutter Web, Dart | [→ Ver repo](https://github.com/MarcMunta/Mapa) |
+| **Social Portfolio** | Componentes UI y landing pages | UI/UX, Web Performance | [→ Ver repo](https://github.com/MarcMunta/Social-Portfolio) |
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
 
@@ -67,40 +55,57 @@ flowchart LR
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcMunta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=es)
 
-![Streak](https://streak-stats.demolab.com?user=MarcMunta&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcMunta&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
 
-## Servicios — en qué puedo ayudar
+## 💼 Servicios especializados
 
-- Landing pages con rendimiento y accesibilidad reales.
-- Web apps multiplataforma (PWA / Flutter).
-- Dashboards y mapas interactivos con Mapbox.
+### Frontend & Mobile
+- 🎨 **UI/UX Development**: Interfaces modernas y responsive
+- 📱 **Apps Flutter**: Android, iOS y Web multiplataforma
+- ⚡ **Performance Web**: Optimización y Core Web Vitals
+- 🗺️ **Mapas Interactivos**: Integración Mapbox y geolocalización
+
+### Backend & Full Stack
+- 🔧 **APIs REST**: PHP/Laravel y Node.js/TypeScript
+- 🗄️ **Bases de Datos**: MySQL, diseño y optimización
+- 🔄 **Integración de Sistemas**: Conectividad entre plataformas
+- 🚀 **Deploy & DevOps**: Configuración de servidores y CI/CD
+
+## 🎯 Especialidades técnicas
+
+**Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
+**Backend:** PHP, Laravel, Node.js, MySQL, API REST  
+**Mobile:** Flutter (Android/iOS/Web), Progressive Web Apps  
+**Tools:** Git, VS Code, Figma, Mapbox, Firebase
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
 
 ## Contacto & enlaces
 
-[![Email](https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white)](mailto:marcmclara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/📧_marcmclara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmclara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-muntan%C3%A9-clar%C3%A0-ab6a0a276/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcMunta/Porfolio)
 
-![Profile views](https://komarev.com/ghpvc/?username=MarcMunta&style=flat)
+---
 
-### Últimos posts / ahora escuchando
+<div align="center">
 
-- Próximamente: artículos y playlists seleccionadas.
+### 🌟 "Desarrollando el futuro, una línea de código a la vez"
 
-<img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+![Snake animation](https://raw.githubusercontent.com/MarcMunta/MarcMunta/output/github-contribution-grid-snake.svg)
 
-<sub>Avatar placeholder:</sub>
+⭐️ From [MarcMunta](https://github.com/MarcMunta) with ❤️
 
-<img src="assets/headshot.png" alt="Headshot placeholder de Marc Muntané" width="160" height="160" />
+</div>
