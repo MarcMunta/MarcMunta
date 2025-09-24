@@ -104,8 +104,10 @@ flowchart LR
 
 ### 🌟 "Desarrollando el futuro, una línea de código a la vez"
 
-![Snake animation](https://raw.githubusercontent.com/MarcMunta/MarcMunta/output/github-contribution-grid-snake.svg)
+💡 **Siempre aprendiendo** • 🚀 **Creando soluciones** • ⚡ **Optimizando experiencias**
 
-⭐️ From [MarcMunta](https://github.com/MarcMunta) with ❤️
+![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=70A5FD&center=true&width=500&lines=Construyendo+el+futuro+digital;Cada+proyecto+es+una+nueva+aventura;Código+limpio%2C+resultados+increíbles)
+
+⭐️ From [MarcMunta](https://github.com/MarcMunta) with ❤️ • Made in Barcelona 🌆
 
 </div>
