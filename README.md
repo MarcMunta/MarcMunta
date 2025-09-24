@@ -30,6 +30,7 @@
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-263473?logo=pfsense&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
@@ -100,9 +101,11 @@ flowchart LR
 
 ## Contacto & enlaces
 
+
 [![Email](https://img.shields.io/badge/📧_marcmclara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmclara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-muntan%C3%A9-clar%C3%A0-ab6a0a276/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcMunta/Porfolio)
+[![Portfolio WordPress](https://img.shields.io/badge/Portfolio%20WP-marcmuntane.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcmuntane.com)
+[![Portfolio GitHub](https://img.shields.io/badge/Portfolio%20GitHub-marcmunta.github.io%2FPortfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://marcmunta.github.io/Portfolio/)
 
 ---
 
