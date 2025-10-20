@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Flutter+%26+TypeScript;UX%2FUI+%26+Web+Performance;Creando+experiencias+digitales)](https://github.com/MarcMunta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Full+Stack+Developer;Flutter+%26+TypeScript+Specialist;UX%2FUI+%26+Web+Performance;Designing+digital+experiences)](https://github.com/MarcMunta)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MarcMunta&style=for-the-badge&color=blueviolet)
 
@@ -10,12 +10,11 @@
 
 </div>
 
-Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM). Priorizo el front‑end y el diseño visual (UX/UI) para crear interfaces rápidas, accesibles y consistentes. También tengo experiencia full‑stack (APIs y bases de datos) y destaco por el trabajo en equipo y la resolución de problemas.
+I’m a software developer with a Higher National Diploma (Grado Superior) in Web Development (DAW) and Multiplatform Application Development (DAM). I prioritize front‑end and visual design (UX/UI) to craft fast, accessible, and consistent interfaces. I’m comfortable across the stack—from modern front‑end frameworks to back‑end APIs and databases—and I value teamwork and problem‑solving.
 
 ---
 
-## Stack principal
-
+## Tech stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -41,55 +40,54 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 
-<img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+<img src="assets/separator-animated.svg" alt="Visual separator" width="100%" height="auto" />
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Descripción | Stack | Link |
-|----------|-------------|-------|------|
-| **Sostenibilidad** | App web interactiva de retos medioambientales | HTML, JS, CSS, UI visual | [→ Ver repo](https://marcmunta.github.io/Sostenibilidad_v1/) |
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **Sustainability** | Interactive web app with environmental challenges | HTML, JS, CSS, UI | [→ Open](https://marcmunta.github.io/Sostenibilidad_v1/) |
 
-<img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+<img src="assets/separator-animated.svg" alt="Visual separator" width="100%" height="auto" />
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=en)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcMunta&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)
 
 </div>
 
-<img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+<img src="assets/separator-animated.svg" alt="Visual separator" width="100%" height="auto" />
 
-## 💼 Servicios especializados
+## 💼 Services
 
 ### Frontend & Mobile
-- 🎨 **UI/UX Development**: Interfaces modernas y responsive
-- 📱 **Apps Flutter**: Android, iOS y Web multiplataforma
-- ⚡ **Performance Web**: Optimización y Core Web Vitals
-- 🗺️ **Mapas Interactivos**: Integración Mapbox y geolocalización
+- 🎨 **UI/UX Development**: Modern, responsive interfaces
+- 📱 **Flutter Apps**: Android, iOS and Web (multi‑platform)
+- ⚡ **Web Performance**: Optimization and Core Web Vitals
+- 🗺️ **Interactive Maps**: Mapbox and geolocation
 
 ### Backend & Full Stack
-- 🔧 **APIs REST**: PHP/Laravel y Node.js/TypeScript
-- 🗄️ **Bases de Datos**: MySQL, diseño y optimización
-- 🔄 **Integración de Sistemas**: Conectividad entre plataformas
-- 🚀 **Deploy & DevOps**: Configuración de servidores y CI/CD
+- 🔧 **REST APIs**: PHP/Laravel and Node.js/TypeScript
+- 🗄️ **Databases**: MySQL, design and optimization
+- 🔄 **System Integration**: Inter‑platform connectivity
+- 🚀 **Deploy & DevOps**: Server setup and CI/CD
 
-## 🎯 Especialidades técnicas
+## 🎯 Technical specialties
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
-**Backend:** PHP, Laravel, Node.js, MySQL, API REST  
+**Backend:** PHP, Laravel, Symfony, Node.js, MySQL, REST APIs  
 **Mobile:** Flutter (Android/iOS/Web), Progressive Web Apps  
 **Tools:** Git, VS Code, Figma, Mapbox, Firebase
 
-<img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+<img src="assets/separator-animated.svg" alt="Visual separator" width="100%" height="auto" />
 
-## Contacto & enlaces
-
+## Contact & links
 
 [![Email](https://img.shields.io/badge/📧_marcmclara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmclara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-muntan%C3%A9-clar%C3%A0-ab6a0a276/)
@@ -100,11 +98,10 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 
 <div align="center">
 
-### 🌟 "Desarrollando el futuro, una línea de código a la vez"
+### 🌟 "Building the future, one line of code at a time"
 
-💡 **Siempre aprendiendo** • 🚀 **Creando soluciones** • ⚡ **Optimizando experiencias**
+💡 **Always learning** • 🚀 **Shipping solutions** • ⚡ **Optimizing experiences**
 
-![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=70A5FD&center=true&width=500&lines=Construyendo+el+futuro+digital;Cada+proyecto+es+una+nueva+aventura;Código+limpio%2C+resultados+increíbles)
-
+![Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=70A5FD&center=true&width=500&lines=Building+the+digital+future;Every+project+is+a+new+adventure;Clean+code%2C+great+results)
 
 </div>
