@@ -1,10 +1,18 @@
-# Marc Muntané 👋
+# Marc Muntané Clarà 👋
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img alt="Banner" src="assets/banner-light.svg" width="100%" />
+</picture>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Desarrollador+Full+Stack;Especialista+en+Flutter+%26+TypeScript;UX%2FUI+%26+Web+Performance;Creando+experiencias+digitales)](https://github.com/MarcMunta)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MarcMunta&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/MarcMunta?style=for-the-badge&color=0ea5e9)
+![Stars](https://img.shields.io/github/stars/MarcMunta?style=for-the-badge&color=f59e0b)
 
 [EN](./README.en.md) <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags/svg/gb.svg" width="20" alt="English" /> • [ES](./README.md) <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags/svg/es.svg" width="20" alt="Español" /> • [CA](./README.ca.md) <img src="assets/flag-catalonia.svg" width="20" alt="Català" />
 
@@ -16,6 +24,13 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 
 ## Stack principal
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,symfony,react,java,python,flutter,dart,nodejs,mysql,unity,git,wordpress&perline=8" alt="Stack icons" />
+</p>
+
+<details>
+<summary><b>Ver todo el stack (badges)</b></summary>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -41,7 +56,26 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 
+</details>
+
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
+
+<div align="center">
+
+<a href="mailto:marcmclara@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Marc,%20me%20gustaría%20hablar%20contigo%20sobre...">
+	<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Contr%C3%A1tame-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
+</a>
+<a href="https://marcmuntane.com" target="_blank">
+	<img src="https://img.shields.io/badge/Portfolio%20WP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio WordPress" />
+</a>
+<a href="https://marcmunta.github.io/Portfolio/" target="_blank">
+	<img src="https://img.shields.io/badge/Portfolio%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/marc-muntan%C3%A9-clar%C3%A0-ab6a0a276/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 ## 🚀 Proyectos destacados
 
