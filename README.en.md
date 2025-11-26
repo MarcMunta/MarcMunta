@@ -55,9 +55,9 @@ I’m a software developer with a Higher National Diploma (Grado Superior) in We
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=en)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcMunta&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)
 
