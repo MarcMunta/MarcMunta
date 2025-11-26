@@ -47,6 +47,7 @@ Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions W
 | Projecte | Descripció | Stack | Enllaç |
 |---------|------------|-------|--------|
 | **Sostenibilitat** | App web interactiva amb reptes mediambientals | HTML, JS, CSS, UI | [→ Obrir](https://marcmunta.github.io/Sostenibilidad_v1/) |
+| **Reptes Socials** | App web de reptes socials i solidaris | HTML, JS, CSS, UI | [→ Obrir](https://marcmunta.github.io/Retos-Sociales/) |
 
 <img src="assets/separator-animated.svg" alt="Separador visual" width="100%" height="auto" />
 

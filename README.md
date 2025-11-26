@@ -82,6 +82,7 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 | Proyecto | Descripción | Stack | Link |
 |----------|-------------|-------|------|
 | **Sostenibilidad** | App web interactiva de retos medioambientales | HTML, JS, CSS, UI visual | [→ Ver repo](https://marcmunta.github.io/Sostenibilidad_v1/) |
+| **Retos Sociales** | App web de retos sociales y solidarios | HTML, JS, CSS, UI | [→ Ver repo](https://marcmunta.github.io/Retos-Sociales/) |
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
 

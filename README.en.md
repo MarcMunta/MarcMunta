@@ -47,6 +47,7 @@ I’m a software developer with a Higher National Diploma (Grado Superior) in We
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
 | **Sustainability** | Interactive web app with environmental challenges | HTML, JS, CSS, UI | [→ Open](https://marcmunta.github.io/Sostenibilidad_v1/) |
+| **Social Challenges** | Interactive web app for social and solidarity challenges | HTML, JS, CSS, UI | [→ Open](https://marcmunta.github.io/Retos-Sociales/) |
 
 <img src="assets/separator-animated.svg" alt="Visual separator" width="100%" height="auto" />
 
