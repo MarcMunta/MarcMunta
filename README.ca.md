@@ -55,10 +55,6 @@ Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions W
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=ca)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcMunta&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)
 
 </div>

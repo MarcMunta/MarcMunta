@@ -90,14 +90,6 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=MarcMunta&theme=tokyonight&hide_border=true)](https://github.com/MarcMunta?tab=repositories)
-
-<sub>Si la imagen no se muestra, puede deberse a un fallo temporal del servicio externo. Puedes ver mis repositorios y lenguajes principales directamente en mi <a href="https://github.com/MarcMunta?tab=repositories">perfil de GitHub</a>.</sub>
-
-[Ver Top Langs si no se muestra la imagen](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMunta&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcMunta&theme=tokyonight&hide_border=true&locale=es)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcMunta&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)
 
 </div>
