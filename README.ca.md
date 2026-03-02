@@ -33,6 +33,8 @@ Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions W
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
@@ -78,8 +80,8 @@ Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions W
 ## 🎯 Especialitats tècniques
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
-**Backend:** PHP, Laravel, Symfony, Node.js, MySQL, APIs REST  
-**Mobile:** Flutter (Android/iOS/Web), Progressive Web Apps  
+**Backend:** PHP, Laravel, Symfony, Node.js, MySQL, MongoDB, APIs REST  
+**Mobile:** Flutter (Android/iOS/Web), Kotlin, Progressive Web Apps  
 **Eines:** Git, VS Code, Figma, Mapbox, Firebase
 
 <img src="assets/separator-animated.svg" alt="Separador visual" width="100%" height="auto" />
@@ -88,7 +90,6 @@ Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions W
 
 [![Email](https://img.shields.io/badge/📧_marcmclara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmclara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-muntan%C3%A9-clar%C3%A0-ab6a0a276/)
-[![Portfolio WordPress](https://img.shields.io/badge/Portfolio%20WP-marcmuntane.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcmuntane.com)
 [![Portfolio GitHub](https://img.shields.io/badge/Portfolio%20GitHub-marcmunta.github.io%2FPortfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://marcmunta.github.io/Portfolio/)
 
 ---

@@ -26,7 +26,7 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,symfony,react,java,python,flutter,dart,nodejs,mysql,unity,git,wordpress&perline=8" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,symfony,react,java,kotlin,python,flutter,dart,nodejs,mysql,mongodb,unity,git,wordpress&perline=10" alt="Stack icons" />
 </p>
 
 <details>
@@ -49,6 +49,8 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
@@ -64,9 +66,6 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 
 <a href="mailto:marcmclara@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Marc,%20me%20gustaría%20hablar%20contigo%20sobre...">
 	<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Contr%C3%A1tame-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
-</a>
-<a href="https://marcmuntane.com" target="_blank">
-	<img src="https://img.shields.io/badge/Portfolio%20WP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio WordPress" />
 </a>
 <a href="https://marcmunta.github.io/Portfolio/" target="_blank">
 	<img src="https://img.shields.io/badge/Portfolio%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub" />
@@ -113,8 +112,8 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 ## 🎯 Especialidades técnicas
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
-**Backend:** PHP, Laravel, Node.js, MySQL, API REST  
-**Mobile:** Flutter (Android/iOS/Web), Progressive Web Apps  
+**Backend:** PHP, Laravel, Node.js, MySQL, MongoDB, API REST  
+**Mobile:** Flutter (Android/iOS/Web), Kotlin, Progressive Web Apps  
 **Tools:** Git, VS Code, Figma, Mapbox, Firebase
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />
@@ -124,7 +123,6 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 
 [![Email](https://img.shields.io/badge/📧_marcmclara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmclara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-muntan%C3%A9-clar%C3%A0-ab6a0a276/)
-[![Portfolio WordPress](https://img.shields.io/badge/Portfolio%20WP-marcmuntane.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://marcmuntane.com)
 [![Portfolio GitHub](https://img.shields.io/badge/Portfolio%20GitHub-marcmunta.github.io%2FPortfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://marcmunta.github.io/Portfolio/)
 
 ---
