@@ -10,7 +10,7 @@
 
 </div>
 
-I’m a software developer with a Higher National Diploma (Grado Superior) in Web Development (DAW) and Multiplatform Application Development (DAM). I prioritize front‑end and visual design (UX/UI) to craft fast, accessible, and consistent interfaces. I’m comfortable across the stack—from modern front‑end frameworks to back‑end APIs and databases—and I value teamwork and problem‑solving.
+I’m a software developer with a Higher National Diploma (Grado Superior) in Web Development (DAW) and Multiplatform Application Development (DAM). I prioritize front‑end and visual design (UX/UI) to craft fast, accessible, and consistent interfaces. I’m comfortable across the stack—from modern front‑end frameworks to back‑end APIs and databases—and I value teamwork and problem‑solving. I plan to pursue a Master’s degree in AI and Big Data, which will further strengthen my practical AI knowledge in prompt engineering, generative AI and LLM workflows, big data analysis, neural network fundamentals, and AI model training.
 
 ---
 
@@ -77,11 +77,19 @@ I’m a software developer with a Higher National Diploma (Grado Superior) in We
 - 🔄 **System Integration**: Inter‑platform connectivity
 - 🚀 **Deploy & DevOps**: Server setup and CI/CD
 
+### AI & Data
+- 🎓 **Master’s in AI and Big Data (upcoming)**: Advanced training to deliver production-ready AI and data solutions
+- 🤖 **Generative AI and LLMs**: Integration of assistants and language-model-based workflows
+- 🧠 **Prompt Engineering**: Prompt design and optimization for real-world use cases
+- 📊 **Big Data and Analytics**: Data processing to extract insights and support decisions
+- 🧪 **Neural Networks and Training**: Fundamentals of AI model training and tuning
+
 ## 🎯 Technical specialties
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
 **Backend:** PHP, Laravel, Symfony, Node.js, MySQL, MongoDB, REST APIs  
 **Mobile:** Flutter (Android/iOS/Web), Kotlin, Progressive Web Apps  
+**AI & Data:** Generative AI, prompt engineering, LLMs, big data, neural networks, AI model training, Master’s in AI and Big Data (upcoming)  
 **Tools:** Git, VS Code, Figma, Mapbox, Firebase
 
 <img src="assets/separator-animated.svg" alt="Visual separator" width="100%" height="auto" />

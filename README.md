@@ -18,7 +18,7 @@
 
 </div>
 
-Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM). Priorizo el front‑end y el diseño visual (UX/UI) para crear interfaces rápidas, accesibles y consistentes. También tengo experiencia full‑stack (APIs y bases de datos) y destaco por el trabajo en equipo y la resolución de problemas.
+Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM). Priorizo el front‑end y el diseño visual (UX/UI) para crear interfaces rápidas, accesibles y consistentes. También tengo experiencia full‑stack (APIs y bases de datos) y destaco por el trabajo en equipo y la resolución de problemas. Voy a cursar un Máster en IA y Big Data, que reforzará mis conocimientos aplicados de inteligencia artificial: diseño de prompts, uso de IA generativa y LLM, análisis de big data, fundamentos de redes neuronales y entrenamiento de modelos de IA.
 
 ---
 
@@ -109,11 +109,19 @@ Soy programador con título de Grado Superior en Desarrollo de Aplicaciones Web 
 - 🔄 **Integración de Sistemas**: Conectividad entre plataformas
 - 🚀 **Deploy & DevOps**: Configuración de servidores y CI/CD
 
+### IA & Datos
+- 🎓 **Máster en IA y Big Data (próximamente)**: Formación avanzada para llevar soluciones de IA y datos a producción
+- 🤖 **IA Generativa y LLM**: Integración de asistentes y flujos basados en modelos de lenguaje
+- 🧠 **Prompt Engineering**: Diseño y optimización de prompts para casos de uso reales
+- 📊 **Big Data y Analítica**: Tratamiento de datos para extraer insights y apoyar decisiones
+- 🧪 **Redes Neuronales y Entrenamiento**: Fundamentos de entrenamiento y ajuste de modelos de IA
+
 ## 🎯 Especialidades técnicas
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
 **Backend:** PHP, Laravel, Node.js, MySQL, MongoDB, API REST  
 **Mobile:** Flutter (Android/iOS/Web), Kotlin, Progressive Web Apps  
+**IA & Datos:** IA generativa, prompt engineering, LLM, big data, redes neuronales, entrenamiento de modelos de IA, Máster en IA y Big Data (próximamente)  
 **Tools:** Git, VS Code, Figma, Mapbox, Firebase
 
 <img src="assets/separator-animated.svg" alt="Separador animado con acento visual" width="100%" height="auto" />

@@ -10,7 +10,7 @@
 
 </div>
 
-Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions Web (DAW) i Desenvolupament d’Aplicacions Multiplataforma (DAM). Prioritzo el front‑end i el disseny visual (UX/UI) per crear interfícies ràpides, accessibles i consistents. També tinc experiència full‑stack (APIs i bases de dades) i destaco pel treball en equip i la resolució de problemes.
+Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions Web (DAW) i Desenvolupament d’Aplicacions Multiplataforma (DAM). Prioritzo el front‑end i el disseny visual (UX/UI) per crear interfícies ràpides, accessibles i consistents. També tinc experiència full‑stack (APIs i bases de dades) i destaco pel treball en equip i la resolució de problemes. Cursaré un Màster en IA i Big Data, que reforçarà els meus coneixements aplicats d’intel·ligència artificial: disseny de prompts, ús d’IA generativa i LLM, anàlisi de big data, fonaments de xarxes neuronals i entrenament de models d’IA.
 
 ---
 
@@ -77,11 +77,19 @@ Soc programador amb títol de Grau Superior en Desenvolupament d’Aplicacions W
 - 🔄 **Integració de Sistemes**: Connectivitat entre plataformes
 - 🚀 **Deploy & DevOps**: Servidors i CI/CD
 
+### IA i Dades
+- 🎓 **Màster en IA i Big Data (pròximament)**: Formació avançada per portar solucions d’IA i dades a producció
+- 🤖 **IA Generativa i LLM**: Integració d’assistents i fluxos basats en models de llenguatge
+- 🧠 **Prompt Engineering**: Disseny i optimització de prompts per a casos d’ús reals
+- 📊 **Big Data i Analítica**: Tractament de dades per extreure insights i donar suport a decisions
+- 🧪 **Xarxes Neuronals i Entrenament**: Fonaments d’entrenament i ajust de models d’IA
+
 ## 🎯 Especialitats tècniques
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+, TypeScript, React, Flutter/Dart  
 **Backend:** PHP, Laravel, Symfony, Node.js, MySQL, MongoDB, APIs REST  
 **Mobile:** Flutter (Android/iOS/Web), Kotlin, Progressive Web Apps  
+**IA i Dades:** IA generativa, prompt engineering, LLM, big data, xarxes neuronals, entrenament de models d’IA, Màster en IA i Big Data (pròximament)  
 **Eines:** Git, VS Code, Figma, Mapbox, Firebase
 
 <img src="assets/separator-animated.svg" alt="Separador visual" width="100%" height="auto" />
